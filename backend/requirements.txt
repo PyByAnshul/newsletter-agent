@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-openai
+python-dotenv
+pydantic
+streamlit
+requests
+scrapy
+beautifulsoup4
+httpx
+trafilatura
+fastapi
+uvicorn
+ddgs
+langchain-community
