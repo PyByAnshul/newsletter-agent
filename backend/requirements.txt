@@ -13,3 +13,4 @@ fastapi
 uvicorn
 ddgs
 langchain-community
+fastapi[standard]

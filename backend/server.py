@@ -16,7 +16,7 @@ app = FastAPI()
 scheduler.start(app)  # weekly autonomous run; see scheduler.py
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["http://localhost:5173","https://newsletter-agent.antideploy.com"],
     allow_methods=["*"],
     allow_headers=["*"],
 )

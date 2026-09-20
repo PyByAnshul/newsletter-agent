@@ -9,7 +9,7 @@ import {
   ChainOfThoughtTrigger,
 } from "@/components/prompt-kit/chain-of-thought"
 
-const API = "http://localhost:8000"
+const API = "https://newsletter-agent.fastapicloud.dev"
 
 type Mode = "autonomous" | "human"
 type Status = "pending" | "active" | "done"
