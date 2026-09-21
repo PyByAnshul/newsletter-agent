@@ -2,7 +2,7 @@
 
 You give it a goal like "a weekly newsletter on the latest AI agent news" and it goes and builds one. It searches the web, pulls the articles, summarizes them, drafts the newsletter, reviews its own draft, and sends it. You can watch each step happen in the browser, or let it run on its own every week.
 
-https://youtu.be/0wSIhThWQt8
+https://youtu.be/hgZxk_JtAVY
 
 ## How it works
 
